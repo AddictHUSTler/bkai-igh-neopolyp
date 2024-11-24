@@ -8,7 +8,7 @@ Code to run
 
 - git clone https://github.com/AddictHUSTler/bkai-igh-neopolyp.git
 - cd bkai-igh-neopolyp
-- python3 infer.py --image_path your_actual_image_path/image.jpeg
+- python3 infer.py --image_path your_actual_image_path
 
 Where to get the results
 
