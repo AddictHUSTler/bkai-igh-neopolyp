@@ -6,5 +6,12 @@ Model checkpoint
 
 Code to run
 
-- 
+- git clone https://github.com/AddictHUSTler/bkai-igh-neopolyp.git
+- cd bkai-igh-neopolyp
+- python3 infer.py --image_path image.jpeg
+
+Where to get the results
+
+- The result should be stored in a folder named 'result'
+
 
