@@ -12,6 +12,6 @@ Code to run
 
 Where to get the results
 
-- The result should be stored in a folder named 'output' in the repository
+- The result should be stored in a folder named 'output' in the local repository
 
 
